@@ -1,0 +1,4 @@
+sourcecode/build/
+design/build/
+*.class
+.DS_Store
